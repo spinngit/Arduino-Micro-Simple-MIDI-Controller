@@ -16,11 +16,11 @@ https://github.com/arduino-libraries/MIDIUSB
 
 ![image](https://user-images.githubusercontent.com/90672633/133881957-397f99d8-7c55-47b2-81b1-0a62c07269e4.png)
 
-4. Set Control Change value to Tempo Adjust (=pitch fader) with Modifier. if M8=1, Assignment="DeckA" and if MB=2, Assignment="Deck B".
+5. Set Control Change value to Tempo Adjust (=pitch fader) with Modifier. if M8=1, Assignment="DeckA" and if MB=2, Assignment="Deck B".
 
 ![image](https://user-images.githubusercontent.com/90672633/133881995-55ecfdb2-9e8d-4911-8a8c-e6558d207940.png)
 
-5. So you can pitch up/ pitch down with SL-1200 fader, and select Target Deck A/B by the toggle switch.
+6. So you can pitch up/ pitch down with SL-1200 fader, and select Target Deck (A/B) by the toggle switch!
 
 
 <h2>Images</h2>
