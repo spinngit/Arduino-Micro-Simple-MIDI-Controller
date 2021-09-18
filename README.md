@@ -6,7 +6,7 @@ This is a simple USB MIDI controller with 1 Pitch Fader, 1 Toggle Switch, 1LED a
 https://github.com/arduino-libraries/MIDIUSB
 
 <h2>Use case</h2>
-1. Connect this controller for your DAWs or PCDJ software. I use Native Instruments Traktor pro 3.
+1. Connect this controller for your DAW or PCDJ software. I use Native Instruments Traktor pro 3.
 
 2. Open and configure Controller Settings on Traktor PRO
 
