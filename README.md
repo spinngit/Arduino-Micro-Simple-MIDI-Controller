@@ -16,7 +16,7 @@ https://github.com/arduino-libraries/MIDIUSB
 
 ![image](https://user-images.githubusercontent.com/90672633/133881957-397f99d8-7c55-47b2-81b1-0a62c07269e4.png)
 
-5. Set Control Change value to Tempo Adjust (=pitch fader) with Modifier. if M8=1, Assignment="DeckA" and if MB=2, Assignment="Deck B".
+5. Set Control Change value to Tempo Adjust (=pitch fader) with Modifier. If M8=1 then Assignment="Deck A" and If MB=2 then Assignment="Deck B".
 
 ![image](https://user-images.githubusercontent.com/90672633/133881995-55ecfdb2-9e8d-4911-8a8c-e6558d207940.png)
 
