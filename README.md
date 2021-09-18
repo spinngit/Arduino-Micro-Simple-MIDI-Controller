@@ -1,4 +1,4 @@
-# Arduino-Micro-MIDI-Controller
+# Arduino-Micro-Simple-MIDI-Controller
 
 This is a simple USB MIDI controller with 1 Pitch Fader, 1 Toggle Switch, 1LED and Arduino Micro.
 
