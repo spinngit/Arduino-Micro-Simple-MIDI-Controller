@@ -12,7 +12,7 @@ https://github.com/arduino-libraries/MIDIUSB
 
 3. Choose the "Controller Manager", select "Gener Midi" and set IN-port as " Arduino Micro"
 
-4. Set notes from Togggle to Modifier Condition of M8 as C3= 1 / D3= 2.
+4. Set the Modifier Condition of M8 as C3= 1 / D3= 2 by notes from toggle switches.
 
 ![image](https://user-images.githubusercontent.com/90672633/133881957-397f99d8-7c55-47b2-81b1-0a62c07269e4.png)
 
