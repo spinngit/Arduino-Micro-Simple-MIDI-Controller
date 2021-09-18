@@ -10,7 +10,7 @@ https://github.com/arduino-libraries/MIDIUSB
 
 2. Open and configure Controller Settings on Traktor PRO
 
-3. Choose the "Controller Manager", select "Gener Midi" and set IN-port as " Arduino Micro"
+3. Choose the "Controller Manager", select "General Midi" and set IN-port to "Arduino Micro"
 
 4. Set the Modifier Condition of M8 as C3= 1 / D3= 2 by notes from toggle switches.
 
