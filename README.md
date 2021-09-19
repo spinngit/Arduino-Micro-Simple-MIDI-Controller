@@ -23,7 +23,7 @@ https://github.com/arduino-libraries/MIDIUSB
 
 ![image](https://user-images.githubusercontent.com/90672633/133881995-55ecfdb2-9e8d-4911-8a8c-e6558d207940.png)
 
-6. So you can pitch up/ pitch down with SL-1200 fader, and select Target Deck (A/B) by the toggle switch!
+6. So you can pitch up/down with SL-1200 fader, and select Target Deck (A/B) by the toggle switch!
 
 
 <h2>Images</h2>
