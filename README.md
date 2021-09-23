@@ -38,4 +38,4 @@ The Connection Chart
 I use classic Technics SL-1200's pitch fader for this controller. I got it from Yahoo auction in Japan.
 
 ![image](https://user-images.githubusercontent.com/90672633/134456525-8ea36424-b2dc-4b7f-b3a7-70c5821351e0.png)
-SL1200_faderhousing.stl for LENOVO ThinkPad T490
+SL1200_fader_housing.stl for LENOVO ThinkPad T490
