@@ -38,3 +38,6 @@ I use classic Technics SL-1200's pitch fader for this controller. I got it from 
 
 ![_DSC0194_note1240](https://user-images.githubusercontent.com/90672633/135750390-ed0f297f-213b-4c8c-bb6c-e03de960f1b2.png)
 SL1200_fader_housing.stl for LENOVO ThinkPad T490
+
+![_DSC0201_note1240](https://user-images.githubusercontent.com/90672633/135750456-e8f8f67a-c00a-45d7-94b0-23ea6fc4d448.png)
+Mission Completed.
