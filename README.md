@@ -1,6 +1,6 @@
 # Arduino-Micro-Simple-MIDI-Controller
 
-This is a simple USB MIDI controller with 1 Pitch Fader, 1 Toggle Switch, 1LED and Arduino Micro.
+This is a simple USB MIDI controller with 1 Pitch Fader, 1 Toggle Switch, 1LED, up/down Pitch Benders and Arduino Micro.
 
 - Arduino Micro (Official)
 https://store.arduino.cc/products/arduino-micro
@@ -21,7 +21,9 @@ https://github.com/arduino-libraries/MIDIUSB
 
 ![image](https://user-images.githubusercontent.com/90672633/133881995-55ecfdb2-9e8d-4911-8a8c-e6558d207940.png)
 
-6. So you can pitch up/down with SL-1200 fader, and select Target Deck (A/B) by the toggle switch!
+6. Set Pitch Bend
+
+7. So you can pitch up/down with SL-1200 fader, and select Target Deck (A/B) by the toggle switch!
 
 
 <h2>Images</h2>
@@ -34,5 +36,5 @@ The Connection Chart
 ![_DSC0145_note1240](https://user-images.githubusercontent.com/90672633/133880514-f1708564-df05-4910-871c-7db03b5481d5.png)
 I use classic Technics SL-1200's pitch fader for this controller. I got it from Yahoo auction in Japan.
 
-![image](https://user-images.githubusercontent.com/90672633/134456525-8ea36424-b2dc-4b7f-b3a7-70c5821351e0.png)
+![_DSC0194_note1240](https://user-images.githubusercontent.com/90672633/135750390-ed0f297f-213b-4c8c-bb6c-e03de960f1b2.png)
 SL1200_fader_housing.stl for LENOVO ThinkPad T490
