@@ -17,8 +17,6 @@ https://github.com/arduino-libraries/MIDIUSB
 
 4. Set the Modifier Condition of M8 as C3= 1 / D3= 2 by notes sent from toggle switch.
 
-![_DSC0193_note1240](https://user-images.githubusercontent.com/90672633/135750254-18e1ad4d-cd32-4856-9b78-ff7fbbd5076c.png)
-
 5. Set Control Change value to Tempo Adjust (=pitch fader) with Modifier8(M8). If M8=1 then Assignment="Deck A" and If M8=2 then Assignment="Deck B".
 
 ![image](https://user-images.githubusercontent.com/90672633/133881995-55ecfdb2-9e8d-4911-8a8c-e6558d207940.png)
@@ -27,11 +25,10 @@ https://github.com/arduino-libraries/MIDIUSB
 
 
 <h2>Images</h2>
-
-![_DSC0159_note1240 1](https://user-images.githubusercontent.com/90672633/133880499-0fc70cef-eaa9-44c8-b0c2-195c6d79a879.png)
+![_DSC0193_note1240](https://user-images.githubusercontent.com/90672633/135750254-18e1ad4d-cd32-4856-9b78-ff7fbbd5076c.png)
 The Circuit
 
-![image](https://user-images.githubusercontent.com/90672633/133891014-e64b9ec6-fb32-4a29-aaee-1aaad954872d.png)
+![image](https://user-images.githubusercontent.com/90672633/135750316-cababafb-a1ab-40b3-ba5e-fc20f714d0f0.png)
 The Connection Chart
 
 ![_DSC0145_note1240](https://user-images.githubusercontent.com/90672633/133880514-f1708564-df05-4910-871c-7db03b5481d5.png)
