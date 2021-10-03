@@ -17,7 +17,7 @@ https://github.com/arduino-libraries/MIDIUSB
 
 4. Set the Modifier Condition of M8 as C3= 1 / D3= 2 by notes sent from toggle switch.
 
-![image](https://user-images.githubusercontent.com/90672633/133881957-397f99d8-7c55-47b2-81b1-0a62c07269e4.png)
+![_DSC0193_note1240](https://user-images.githubusercontent.com/90672633/135750254-18e1ad4d-cd32-4856-9b78-ff7fbbd5076c.png)
 
 5. Set Control Change value to Tempo Adjust (=pitch fader) with Modifier8(M8). If M8=1 then Assignment="Deck A" and If M8=2 then Assignment="Deck B".
 
