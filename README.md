@@ -23,6 +23,8 @@ https://github.com/arduino-libraries/MIDIUSB
 
 6. Set Pitch Bend
 
+![image](https://user-images.githubusercontent.com/90672633/138655006-35663bbb-ec43-4d7f-83fb-3adea0996891.png)
+
 7. So you can pitch up/down with SL-1200 fader, and select Target Deck (A/B) by the toggle switch!
 
 
